@@ -1,0 +1,21 @@
+{
+    "name": "allinOne Extension",
+    "version": "1.0.0",
+    "description": "This is an extension that allows you to do multiple tasks",
+    "manifest_version": 3,
+    "author": "abisek",
+    "permissions": [
+        "activeTab"
+    ],
+    "action":  {
+        "default_popup": "index.html",
+        "default_title": "allinOne Extension"
+    },
+    "icons": {
+        "16": "extensionLogo16.png",   
+        "48": "extensionLogo48.png",   
+        "128": "extensionLogo128.png"  
+    }
+    
+    
+}
