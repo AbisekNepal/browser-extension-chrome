@@ -55,8 +55,8 @@ This is an extension that enhances your browsing experience by providing multipl
 ### QR Code Generator
 ![QR Code Generator](images/screenshot2.png)
 
-### QR Code Generator
-![QR Code Generator](images/screenshot3.png)
+### Password Generator
+![Password Generator](images/screenshot3.png)
 
 ## License
 
