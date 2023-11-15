@@ -49,7 +49,8 @@ This is an extension that enhances your browsing experience by providing multipl
 ## Screenshots
 
 ### Password Generator
-![Password Generator](screenshots/password-generator.png)
+![Uploading image.png…]()
+
 
 ### QR Code Generator
 ![QR Code Generator](screenshots/qr-code-generator.png)
