@@ -48,15 +48,15 @@ This is an extension that enhances your browsing experience by providing multipl
 
 ## Screenshots
 
-### Password Generator
-![Uploading image.png…]()
+### Landing Page
+![Landing Page](images/screenshot1.png)
 
 
 ### QR Code Generator
-![QR Code Generator](screenshots/qr-code-generator.png)
+![QR Code Generator](images/screenshot2.png)
 
-### QR Code Scanner
-![QR Code Scanner](screenshots/qr-code-scanner.png)
+### QR Code Generator
+![QR Code Generator](images/screenshot3.png)
 
 ## License
 
